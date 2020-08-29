@@ -1,0 +1,6 @@
+Gorokhov_Mikhail AMD_Ryzen_3_2200U 4 2500 Crucial_CT32G4RFD4266 32000 Ryzen_3_2200U 0 SSD 128000 Arch_Linux y
+Ivanov_Fedor Intel_i3_11580 20 5000 Crucial_CT64G4RFD4266 128000 Geforce_2080Ti 20000 SSD 256000 Linux_From_Scratch y
+Keker Celeron_3060 1 700 No 0 No 0  HDD 60000 Windows_95 n
+Antoshka Arduino_Uno 1 1400 Samsung_DDR2 128 No 0 SSD 512 Linux n
+Ivanov_Fedor Intel_i3_11580 20 5000 Crucial_CT64G4RFD4266 128000 No 0 SSD 256000 Linux_From_Scratch n
+Gorokhov_Mikhail AMD_Ryzen_5_2600X 12 3200 Crucial_CT32G4RFD4266 16000 Radeon_470 4096 SSD 256000 Linux_From_Scratch y
